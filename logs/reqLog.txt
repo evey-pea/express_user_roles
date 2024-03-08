@@ -11,3 +11,8 @@
 20211011	17:49:24	2b74f46b-65d3-4041-9c87-65e0982d46ad	POST	undefined	/auth
 20211011	17:49:38	32899fb9-23b8-49fc-95ac-631462d7174c	POST	undefined	/employees
 20211011	17:49:44	df0482cf-3962-4078-9a8e-b4712e1d8658	DELETE	undefined	/employees
+20240308	17:48:38	c8117049-346a-4b40-8325-fc74e0c669ae	POST	undefined	/register
+20240308	17:48:54	507cc22f-26c7-4cdd-a244-b172e43a305b	POST	undefined	/register
+20240308	17:51:11	914879d3-ac8b-4c2f-bcfc-e9cbe94c1936	POST	undefined	/register
+20240308	17:53:21	d44003a8-57e8-4838-b10e-74f674ad420b	POST	undefined	/register
+20240308	17:55:45	65c0bae3-cd13-4fb9-900a-c0ff4839f71e	POST	undefined	/register
